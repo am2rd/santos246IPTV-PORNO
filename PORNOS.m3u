@@ -519,12 +519,12 @@ https://v012.hdsex.org/1/d/a/1da2b1272f02ebf817c31d92b30f0750/stream/720p/index.
 https://v04.hdsex.org/5/b/3/5b36905e5542b853ccfe5be92a480378/stream/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://hdsex.org/static/img/blocks/generic/header/header-top/logo.svg" group-title="HDSEX", hdsex
 https://v039.hdsex.org/a/9/6/a96a1434f6b6606c612481332df940e6/stream/720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://hdsex.org/static/img/blocks/generic/header/header-top/logo.svg" group-title="HDSEX", hdsex
-LINK
 
 
 
 
+#EXTINF:-1 tvg-logo="#" group-title="3GP", 3GP
+https://www.googleapis.com/drive/v3/files/1cZ-oTaLdYwMnuljIOdRgVIEd98-dggiN?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
 
 
